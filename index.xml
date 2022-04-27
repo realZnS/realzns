@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZnS&#39; Profile</title>
-    <link>https://me.zns.codes/</link>
+    <link>https://me.zns.moe/</link>
     <description>Recent content on ZnS&#39; Profile</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://me.zns.codes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://me.zns.moe/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
