@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realzns&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### My Personal Page: [zns.codes](https://zns.codes)
+#### My Personal Page: [zns.moe](https://zns.moe)
 
 
 <!--
